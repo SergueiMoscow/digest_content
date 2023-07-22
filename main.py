@@ -23,7 +23,7 @@ def create_digest(user_id: int):
     return json.dumps(posts_for_digest, ensure_ascii=False, indent=4)
 
 
-def get_posts_for_digest(user_id: int) -> dict:
+def get_posts_for_digest(user_id: int) -> list:
     """
     search for posts in channels,
     :param user_id:
@@ -100,7 +100,7 @@ def get_last_sent_post_ids(user_id: int) -> list:
     return ids
 
 
-def save_digest(user_id: int, posts: dict) -> None:
+def save_digest(user_id: int, posts: list) -> None:
     """
     saves ids of posts for this digest
     :param user_id:
