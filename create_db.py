@@ -105,10 +105,13 @@ def create_tables():
 
 
 if __name__ == "__main__":
-    # admin = get_admin_credentials()
-    admin = {'name_admin': 'sergey', 'password_admin': 'OlgaFeb10'}
+    admin_user = os.environ.get('pgsql_admin_user')
+    admin_password = os.environ.get('pgsql_admin_password')
+    if admin_user and admin_password:
+        admin = {'name_admin': admin_user, 'password_admin': admin_password}
+    else:
+        admin = get_admin_credentials()
     if admin is None:
         sys.exit(0)
-    print(f'admin: {admin}')
     create_database(admin)
     create_tables()

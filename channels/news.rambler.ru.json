@@ -1,0 +1,47 @@
+[
+    {
+        "id": 19,
+        "title": "Some title",
+        "url": "url",
+        "content": "Эксперты анонсировали укрепление рубля на следующей неделе",
+        "popularity": 0,
+        "created_at": "2023-07-22 18:37:36.947744",
+        "updated_at": "2023-07-22 18:37:36.947744"
+    },
+    {
+        "id": 20,
+        "title": "Some title",
+        "url": "url",
+        "content": "Белый дом: ЧВК «Вагнер» не принимает участия в боевых действиях на Украине в настоящее время",
+        "popularity": 0,
+        "created_at": "2023-07-22 18:37:36.947744",
+        "updated_at": "2023-07-22 18:37:36.947744"
+    },
+    {
+        "id": 21,
+        "title": "Some title",
+        "url": "url",
+        "content": "Найдено объяснение стремительной деградации нейросети GPT4",
+        "popularity": 0,
+        "created_at": "2023-07-22 18:37:36.947744",
+        "updated_at": "2023-07-22 18:37:36.947744"
+    },
+    {
+        "id": 33,
+        "title": "США и Евросоюз разрешили «Уральским авиалиниям» выкупить 19 лайнеров Airbus Об этом сообщает \"Рамблер\". Далее: https://finance.rambler.ru/business/51136132/?utm_content=finance_media&utm_medium=read_more&utm_source=copylink",
+        "url": "https://finance.rambler.ru/business/51136132-ssha-i-evrosoyuz-razreshili-uralskim-avialiniyam-vykupit-19-laynerov-airbus/",
+        "content": "По его словам, сделка находится «в стадии решения». Авиакомпания намерена воспользоваться многолетним государственным кредитом. Об этом сообщает \"Рамблер\". Далее: https://finance.rambler.ru/business/51136132/?utm_content=finance_media&utm_medium=read_more&utm_source=copylink",
+        "popularity": 0,
+        "created_at": "2023-07-22 18:37:36.957122",
+        "updated_at": "2023-07-22 18:37:36.957122"
+    },
+    {
+        "id": 34,
+        "title": "Российский посол: Варшава получила надлежащий ответ на претензии к выступлению Путина Об этом сообщает \"Рамблер\". Далее: https://news.rambler.ru/politics/51136095/?utm_content=news_media&utm_medium=read_more&utm_source=copylink",
+        "url": "https://news.rambler.ru/politics/51136095-rossiyskiy-posol-varshava-poluchila-nadlezhaschiy-otvet-na-pretenzii-k-vystupleniyu-putina/",
+        "content": "В пятницу, 21 июля, Владимир Путин на совещании в Совбезе РФ напомнил о судьбе Польши в 30-е годы XX века, а также о том, что Варшава благодаря позиции Иосифа Сталина получила земли, ранее принадлежавшие Германии.\nВ субботу утром замминистра внешнеполитического ведомства Польши Павел Яблоньский вызвал российского посла и выставил претензии по поводу высказываний президента России. Об этом сообщает \"Рамблер\". Далее: https://news.rambler.ru/politics/51136095/?utm_content=news_media&utm_medium=read_more&utm_source=copylink",
+        "popularity": 0,
+        "created_at": "2023-07-22 18:37:36.957122",
+        "updated_at": "2023-07-22 18:37:36.957122"
+    }
+]
