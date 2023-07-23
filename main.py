@@ -40,7 +40,7 @@ def get_posts_for_digest(user_id: int) -> list:
         with open(source) as f:
             posts = json.load(f)
             if posts is None:
-                return None
+                return []
         for post in posts:
             if post['popularity'] < min_post_popularity:
                 continue
